@@ -16,8 +16,6 @@ sites:
   - name: ioh
     url: http://myim3-he.ioh.co.id/api/v1/token/hetoken
     method: GET
-    expectedStatusCodes:
-      - 200
     port: 80
     check: "tcp-ping"
     ipv6: false
