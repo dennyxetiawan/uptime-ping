@@ -1,26 +1,28 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: dennyxetiawan # Your GitHub organization or username, where this repository lives
+repo: uptime-ping # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: IPv6 test
-    url: forwardemail.net
+  - name: serverssh-idray
+    url: idray.serverip.my.id
+  - name: serverssh-sg1ray
+    url: sg1ray.serverip.my.id
+  - name: globalssh-wh-id
+    url: vless-wh-id01.globalssh.xyz
+  - name: globalssh-ikd-id
+    url: vless-ikd-id01.globalssh.xyz
+  - name: globalssh-sg01
+    url: vmess-sg01.globalssh.xyz
+  - name: globalssh-sg01
+    url: http://myim3-he.ioh.co.id/api/v1/token/hetoken
     port: 80
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  # cname: demo.upptime.js.org
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
