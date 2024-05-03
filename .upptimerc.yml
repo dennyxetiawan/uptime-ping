@@ -13,6 +13,8 @@ sites:
     url: vless-ikd-id01.globalssh.xyz
   - name: globalssh-sg01
     url: vmess-sg01.globalssh.xyz
+  - name: Bug
+    url: $SECRET_SITE
     port: 80
     check: "tcp-ping"
     ipv6: false
