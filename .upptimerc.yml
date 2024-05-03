@@ -13,8 +13,11 @@ sites:
     url: vless-ikd-id01.globalssh.xyz
   - name: globalssh-sg01
     url: vmess-sg01.globalssh.xyz
-  - name: Bug
-    url: $SECRET_SITE
+  - name: ioh
+    url: http://myim3-he.ioh.co.id/api/v1/token/hetoken
+    method: GET
+    expectedStatusCodes:
+      - 200
     port: 80
     check: "tcp-ping"
     ipv6: false
