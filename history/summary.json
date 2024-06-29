@@ -30,10 +30,10 @@
     "url": "sg1ray.serverip.my.id",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "serverssh-sg1ray",
-    "status": "up",
+    "status": "down",
     "uptime": "98.15%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "92.09%",
+    "uptimeDay": "99.28%",
+    "uptimeWeek": "92.07%",
     "uptimeMonth": "97.27%",
     "uptimeYear": "98.15%",
     "time": 1266,
@@ -42,6 +42,7 @@
     "timeMonth": 1626,
     "timeYear": 1266,
     "dailyMinutesDown": {
+      "2024-06-29": 2,
       "2024-06-28": 8,
       "2024-06-26": 34,
       "2024-06-25": 25,
@@ -95,7 +96,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-29": 71,
+      "2024-06-29": 292,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
@@ -172,7 +173,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-29": 71,
+      "2024-06-29": 292,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
@@ -249,7 +250,7 @@
     "timeMonth": 0,
     "timeYear": 234,
     "dailyMinutesDown": {
-      "2024-06-29": 71,
+      "2024-06-29": 292,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
@@ -326,7 +327,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-29": 71,
+      "2024-06-29": 292,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
       "2024-06-26": 1440,
